@@ -1,0 +1,3 @@
+School Name# {school_name}, City:{city}, School Rank #{school_rank}
+Student Name, Course, Score
+{student_name}, {course}, {score}
